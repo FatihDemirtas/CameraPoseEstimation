@@ -16,6 +16,9 @@ For example,
 Because of these uncertainties, I tried 2 approach. 
 1. Using_2D_3D_Correspondance
 2. Using_Feature_Extraction
+![12](https://user-images.githubusercontent.com/50075805/138609706-a12703b2-3f2d-4970-b67e-ac412aa5df1c.png)
+![13](https://user-images.githubusercontent.com/50075805/138609710-7b2d299e-ea23-44c8-a797-cb57a6ac17d8.png)
+
 
 I want to express that camera pose estimation is my original field. I published some academic papers about that. I aslo worked on camera pose estimation from UAV images under GNSS absence. To find a UAV location, we use the same approach like camera pose estimation. Using reference orthophotos, we calculated camera pose from images taken from UAV.
 
